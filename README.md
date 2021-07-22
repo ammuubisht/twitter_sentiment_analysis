@@ -9,7 +9,6 @@ Dataset Download Link: https://datahack.analyticsvidhya.com/contest/practice-pro
 <ul>
 <li>pandas</li>
 <li>matplotlib</li>
-<li>numpy</li>
 <li>scikit-learn</li>
 <li>seaborn</li>
 </ul>
